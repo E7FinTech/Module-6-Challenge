@@ -30,7 +30,7 @@ Download the following files to help you get started:
 
 ### Instructions
 
-Use the san_francisco_housing.ipynb notebook to visualize and analyze the real-estate data.
+Use the `san_francisco_housing.ipynb`notebook to visualize and analyze the real-estate data.
 
 Note that this assignment requires you to create a visualization by using hvPlot and GeoViews. Additionally, you need to read the sfo_neighborhoods_census_data.csv file from the Resources folder into the notebook and create the DataFrame that you’ll use in the analysis.
 
