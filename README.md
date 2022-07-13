@@ -1,6 +1,6 @@
 # Challenge 6 - Housing Rental Analysis for San Francisco
 
-![alt text](Images/6-4-challenge-image.png)
+![alt text](Images/6_4_challenge_image.png)
 
 ## Background
 
