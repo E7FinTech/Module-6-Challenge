@@ -75,8 +75,6 @@ For this part of the assignment, use numerical and visual aggregation to calcula
 
 3. Use hvPlot to plot the `prices_square_foot_by_year` DataFrame as a line plot.
 
-HINT
-------------
 4. Style and format the line plot to ensure a professionally styled visualization.
 
 5. Note that your resulting plot should appear similar to the following image:
@@ -89,6 +87,7 @@ HINT
 
     * If so, did the gross rent increase or decrease during that year?
 
+------------
 ### Compare the Average Sale Prices by Neighborhood
 
 For this part of the assignment, use interactive visualizations and widgets to explore the average sale price per square foot by neighborhood. To do so, complete the following steps:
@@ -202,7 +201,7 @@ For the Anza Vista neighborhood, is the average sale price per square foot for 2
 ### Build an Interactive Neighborhood Map (20 points)
 To receive all points, you must:
 
-* Read the neighborhood_coordinates.csv file from the Resources folder into the notebook, and create a DataFrame named `neighborhood_locations_df`. Be sure to set the index_col of the DataFrame as “Neighborhood”. (3 points)
+* Read the `neighborhood_coordinates.csv` file from the `Resources` folder into the notebook, and create a DataFrame named `neighborhood_locations_df`. Be sure to set the `index_col` of the DataFrame as “Neighborhood”. (3 points)
 
 * Using the original `sfo_data_df` Dataframe, create a DataFrame named `all_neighborhood_info_df` that groups the data by neighborhood. Aggregate the results by the mean of the group. (3 points)
 
@@ -229,7 +228,6 @@ To receive all points, you must:
     * Which neighborhood has the highest gross rent, and which has the highest sale price per square foot? (3 points)
 
 
-
 ---
 
 ### Hints and Considerations
@@ -245,8 +243,6 @@ To receive all points, you must:
 3. Submit the link to your GitHub project to Bootcampspot for grading.
 
 ---
-
-
 
 
 ##### Compose Your Data Story (10 points)
