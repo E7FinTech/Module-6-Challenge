@@ -103,7 +103,7 @@ For this part of the assignment, use interactive visualizations and widgets to e
 
 5. Note that your resulting plot should appear similar to the following image:
 
-![![alt text]](6_4_pricing_info_by_neighborhood.png)
+![alt text](6_4_pricing_info_by_neighborhood.png)
 
 6. Use the interactive visualization to answer the following question:
 
