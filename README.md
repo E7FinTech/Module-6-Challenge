@@ -1,4 +1,4 @@
-# Challenge 6 - Financial Planning
+# Challenge 6 - Housing Rental Analysis for San Francisco
 
 ![San Francisco Housing](Images/6-4-challenge-image.png)
 
