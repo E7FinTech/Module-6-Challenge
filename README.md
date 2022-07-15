@@ -12,11 +12,10 @@ Your job is to use your data visualization skills, including aggregation, intera
 
 ## What You're Creating
 
-For this Challenge assignment, you’ll need to create and submit the following deliverable:
+For this Challenge assignment, you will need to create and submit the following deliverable:
 
 A Jupyter notebook that contains your analysis of the housing rental market data for San Francisco. The analysis will be complete with professionally styled and formatted interactive visualizations.
 Remember to upload your Jupyter notebook for this assignment to your GitHub repository. Make sure to update the README.md file to explain your project and any information that’s needed to interact with your plots.
-
 
 
 
@@ -32,7 +31,7 @@ Download the following files to help you get started:
 
 Use the `san_francisco_housing.ipynb`notebook to visualize and analyze the real-estate data.
 
-Note that this assignment requires you to create a visualization by using hvPlot and GeoViews. Additionally, you need to read the `sfo_neighborhoods_census_data.csv` file from the `Resources` folder into the notebook and create the DataFrame that you’ll use in the analysis.
+Note that this assignment requires you to create a visualization by using hvPlot and GeoViews. Additionally, you need to read the `sfo_neighborhoods_census_data.csv` file from the `Resources` folder into the notebook and create the DataFrame that you will use in the analysis.
 
 The main task in this Challenge is to visualize and analyze the real-estate data in your Jupyter notebook. Use the `san_francisco_housing.ipynb` notebook to complete the following tasks:
 
